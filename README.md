@@ -1,135 +1,112 @@
 # 👋 Hey, I'm Talha
 
-### 🧑‍💻 Software Engineer · 🧩 Systems Builder · ⚡ Technology Enthusiast
+### 🧑‍💻 Software Engineer · ⚙️ Systems Builder · 🚀 Technology
 
-> I build software, automate things, and enjoy figuring out how complex systems work.
-
-<br>
-
-## 🚀 What I'm Into
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 Identity & Security
-
-* Identity & Access Management
-* Authentication & Authorization
-* SSO & Federation
-* System Integration
-* Security Engineering
-
-</td>
-<td width="50%">
-
-### ⚙️ Engineering
-
-* Software Development
-* APIs & Integrations
-* Automation
-* Infrastructure
-* System Architecture
-
-</td>
-</tr>
-</table>
+> Building things, solving problems, and learning how systems work.
 
 ---
 
-## 🛠️ Tech I Work With
+## 🧠 About
 
-<div align="center">
+I'm interested in building **useful, secure, and maintainable software**.
 
-### 💻 Languages
+My main areas of interest include:
 
-`JavaScript` · `TypeScript` · `Python` · `PHP` · `SQL` · `Bash`
-
-### 🌐 Web & Backend
-
-`Node.js` · `React` · `Next.js` · `Laravel` · `REST APIs`
-
-### 🗄️ Data
-
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
-
-### ☁️ Infrastructure
-
-`Linux` · `Docker` · `Nginx` · `Git` · `CI/CD`
-
-### 🔑 Identity
-
-`LDAP` · `SAML` · `OAuth 2.0` · `OpenID Connect` · `SSO` · `RBAC`
-
-</div>
+🔐 **Identity & Security**
+⚙️ **Software Engineering**
+🔗 **System Integration**
+🤖 **AI & Automation**
+☁️ **Infrastructure**
+🏗️ **System Design**
 
 ---
 
-## 🧪 What You'll Find Here
+## 🛠️ Technologies
 
-📦 **Projects** — Things I'm building or experimenting with
+**Languages**
 
-🔬 **Experiments** — Proofs of concept and technical explorations
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square\&logo=python)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat-square\&logo=php)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square\&logo=postgresql)
 
-🛠️ **Tools** — Small utilities that solve real problems
+**Frameworks & Tools**
 
-🤖 **Automation** — Making repetitive work disappear
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square\&logo=node.js)
+![React](https://img.shields.io/badge/React-000?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square\&logo=next.js)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square\&logo=laravel)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square\&logo=linux)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square\&logo=git)
 
-📚 **Research** — Things I'm learning by actually building them
+**Identity & Integration**
+
+![LDAP](https://img.shields.io/badge/LDAP-000?style=flat-square)
+![SAML](https://img.shields.io/badge/SAML-000?style=flat-square)
+![OAuth](https://img.shields.io/badge/OAuth-000?style=flat-square\&logo=oauth)
+![OpenID](https://img.shields.io/badge/OpenID-000?style=flat-square\&logo=openid)
+![REST](https://img.shields.io/badge/REST_API-000?style=flat-square)
 
 ---
 
 ## 🔭 Currently Exploring
 
-```text
 🤖 Artificial Intelligence
 ⚡ Automation & Developer Tools
 🔐 Cybersecurity & Identity
 ☁️ Cloud & Infrastructure
-🏗️ System Design & Architecture
+🏗️ System Architecture
 🧠 AI-assisted Development
+
+---
+
+## 📌 What You'll Find Here
+
+🔨 **Projects** — Things I'm building
+
+🧪 **Experiments** — Ideas I'm testing
+
+🛠️ **Tools** — Useful utilities & automation
+
+📚 **Research** — Technical things I'm learning
+
+---
+
+## 🧩 My Approach
+
+```text
+Understand
+    ↓
+Build
+    ↓
+Test
+    ↓
+Improve
+    ↓
+Automate
 ```
 
----
-
-## 🧠 Engineering Philosophy
-
-> **Build it. Understand it. Improve it.**
-
-I generally optimize for:
-
-**🔒 Security** → **✨ Simplicity** → **🧩 Maintainability** → **📈 Scalability**
-
-Good engineering isn't about using the most technologies.
-
-It's about choosing the **right technology for the problem**.
+> Good engineering is less about using more technology
+> and more about solving the right problem well.
 
 ---
 
-## 📊 GitHub
+## 🌐 Find Me
+
+<p align="left">
+  <a href="https://github.com/talha50819">
+    <img src="https://img.shields.io/badge/GitHub-talha50819-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&theme=transparent)
+### 🚀 Build something useful.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true\&theme=transparent)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-Interested in **technology, engineering, AI, cybersecurity, automation, or building things**?
-
-Feel free to connect or explore the repositories here.
-
-<br>
-
-<div align="center">
-
-### ⭐ Build something useful.
-
-**Thanks for stopping by! 👋**
+**Thanks for visiting! 👋**
 
 </div>
