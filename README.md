@@ -96,8 +96,11 @@ Automate
 ## 🌐 Find Me
 
 <p align="left">
-  <a href="https://github.com/talha50819">
+  <a href="https://github.com/talha50819" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-talha50819-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://mtalha.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-mtalha.is--a.dev-007ACC?style=for-the-badge&logo=firefox" />
   </a>
 </p>
 
